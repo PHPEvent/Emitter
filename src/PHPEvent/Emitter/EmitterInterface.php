@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Potter\Event;
+namespace PHPEvent\Emitter;
 
 use Potter\Event\Dispatcher\DispatcherInterface;
     PHPAbles\Cloneable\CloneableInterface;

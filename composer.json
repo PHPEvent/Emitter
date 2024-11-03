@@ -1,16 +1,16 @@
 {
-    "name": "potter/emitter",
+    "name": "php-event/emitter",
     "description": "PHP Emitter Interface",
     "type": "library",
     "require": {
         "php": ">=8.3",
-        "potter/dispatcher": "dev-main",
+        "php-event/dispatcher": "dev-main",
         "php-ables/cloneable": "dev-main"
     },
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Potter\\": "src/Potter/Event/"
+            "PHPEvent\\Emitter//": "src/PHPEvent/Emitter/"
         }
     },
     "authors": [
