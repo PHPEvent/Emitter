@@ -10,7 +10,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "PHPEvent\\Emitter//": "src/PHPEvent/Emitter/"
+            "PHPEvent\\Emitter\\": "src/PHPEvent/Emitter/"
         }
     },
     "authors": [
